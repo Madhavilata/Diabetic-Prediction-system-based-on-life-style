@@ -1,0 +1,15 @@
+Organization ID
+   uqsl7f
+Device Type
+nodemcu
+Device ID
+1234
+Authentication Method
+use-token-auth
+Authentication Token
+a-uqsl7f-rzrbbcfgw9 
+
+API
+a-uqsl7f-rzrbbcfgw9
+Authetication 
+)w9(MiC&h)okjcEsaP       
